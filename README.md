@@ -2,6 +2,8 @@
 
 Handwired Keyboard by yours truly. With inspiration from various other keyboards, I present my own (attempt at) fully 3DP mechanical keyboard.
 
+![alt text](https://github.com/Arko9699/trijoy65/blob/main/Resources/Exploded View.png?raw=true)
+
 ## Bill of Materials
 
 1.1x Waveshare RP2040 Zero (my MCU of choice for this build, you are free to choose your own but you need to edit the Bottom Case)
