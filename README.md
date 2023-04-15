@@ -24,4 +24,5 @@ Handwired Keyboard by yours truly. With inspiration from various other keyboards
 
 Since I'm using a RP2040 MCU I've decided to go with KMK as its simpler to set up than QMK albeit at the cost of potential VIA functionality.
 
+Get your MCU ready for KMK by following ![this text](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/Getting_Started.md). Check compatible MCUs ![here](https://circuitpython.org/downloads)
 Guide coming soom^TM.
