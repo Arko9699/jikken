@@ -1,4 +1,4 @@
-# trijoy65
+# icky65
 
 Handwired Keyboard by yours truly. With inspiration from various other keyboards, I present my own (attempt at) fully 3DP mechanical keyboard.
 
