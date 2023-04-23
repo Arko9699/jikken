@@ -4,20 +4,22 @@ An open/free-to-do whatever handwired keyboard project.
 
 ## Layouts:
 ![Layouts](https://github.com/Arko9699/trijoy65/blob/main/Resources/Layouts.png?raw=true)
+
 ## Render:
 ![Render](https://github.com/Arko9699/trijoy65/blob/main/Resources/Exploded_View.png?raw=true)
 
 ## Materials Required:
 
 All STL files were printed in PLA at 90% infill. You may also use ABS.
+*You may choose either Tsangan or Standard for your plate, every other part is the same.
 
 * 1x Waveshare RP2040 Zero (my MCU of choice for this build, you are free to choose your own but you need to edit the Bottom Case)
 * MX key switches (66 for Tsangan, 67 for Standard)
 * 1N4148 diodes (66 for Tsangan, 67 for Standard)
-* Soldering Tools
 * 4x M2x5 Screws
 * 7x M2x12 Screws
 * 7x M2 threaded inserts (you can try screwing into the bare plastic but its not recommended)
+* Soldering Tools
 
 ## Firmware:
 
