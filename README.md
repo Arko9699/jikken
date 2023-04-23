@@ -3,8 +3,8 @@
 An open/free-to-do whatever 65% handwired keyboard project.
 
 ## Specs:
-* Top Mount
-* 2 Degree Typing Angle
+* Mount Style : Top Mount
+* Typing Angle : 2 Degrees
 
 ## Layouts:
 ![Layouts](https://github.com/Arko9699/trijoy65/blob/main/Resources/Layouts.png?raw=true)
