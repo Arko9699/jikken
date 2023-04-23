@@ -11,7 +11,8 @@ An open/free-to-do whatever handwired keyboard project.
 ## Materials Required:
 
 All STL files were printed in PLA at 90% infill. You may also use ABS.
-*You may choose either Tsangan or Standard for your plate, every other part is the same.
+
+*You may choose either Tsangan or Standard for your plate, every other part is the same.*
 
 * 1x Waveshare RP2040 Zero (my MCU of choice for this build, you are free to choose your own but you need to edit the Bottom Case)
 * MX key switches (66 for Tsangan, 67 for Standard)
