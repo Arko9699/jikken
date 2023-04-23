@@ -9,8 +9,8 @@ Handwired Keyboard by yours truly. With inspiration from various other keyboards
 All STL files were printed in PLA at 90% infill. You may also use ABS.
 
 * 1x Waveshare RP2040 Zero (my MCU of choice for this build, you are free to choose your own but you need to edit the Bottom Case)
-* 66x MX key switches
-* 66x 1N4148 diodes
+* MX key switches (66 for Tsangan, 67 for Standard)
+* 1N4148 diodes (66 for Tsangan, 67 for Standard)
 * Soldering Tools
 * 4x M2x5 Screws
 * 7x M2x12 Screws
