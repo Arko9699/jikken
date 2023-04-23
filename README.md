@@ -1,6 +1,6 @@
 # Jikken
 
-An open/free-to-do whatever handwired keyboard project.
+An open/free-to-do whatever 65% handwired keyboard project.
 
 ## Layouts:
 ![Layouts](https://github.com/Arko9699/trijoy65/blob/main/Resources/Layouts.png?raw=true)
