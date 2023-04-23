@@ -1,10 +1,13 @@
-# icky66
+# Jikken
 
-Handwired Keyboard by yours truly. With inspiration from various other keyboards, I present my own (attempt at) fully 3DP mechanical keyboard.
+An open/free-to-do whatever handwired keyboard project.
 
+## Layouts:
+![Layouts](https://github.com/Arko9699/trijoy65/blob/main/Resources/Exploded_View.png?raw=true)
+## Render:
 ![Render](https://github.com/Arko9699/trijoy65/blob/main/Resources/Exploded_View.png?raw=true)
 
-## Materials Required
+## Materials Required:
 
 All STL files were printed in PLA at 90% infill. You may also use ABS.
 
@@ -16,9 +19,9 @@ All STL files were printed in PLA at 90% infill. You may also use ABS.
 * 7x M2x12 Screws
 * 7x M2 threaded inserts (you can try screwing into the bare plastic but its not recommended)
 
-## How to make your own
+## Firmware:
 
 1. Download the contents of the repo for the files.
 2. Get your MCU ready for KMK by following ![this](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/Getting_Started.md).
 3. If your MCU is supported and working, congrats! Now you can copy over the files in the KMK folder to the root of the CIRCUITPY drive.
-4. Be sure to test drive your keyboard before solder all the wires to the MCU.
+4. Be sure to test drive your keyboard before soldering all the wires to the MCU.
