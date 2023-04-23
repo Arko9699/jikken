@@ -17,6 +17,7 @@ All STL files were printed in PLA at 90% infill. You may also use ABS.
 * 1x Waveshare RP2040 Zero (my MCU of choice for this build, you are free to choose your own but you need to edit the Bottom Case)
 * MX key switches (66 for Tsangan, 67 for Standard)
 * 1N4148 diodes (66 for Tsangan, 67 for Standard)
+* Plate Mount Stabilisers (3 x 2u + 1 x 6.25u for Standard/7u for Tsangan) 
 * 4x M2x5 Screws
 * 7x M2x12 Screws
 * 7x M2 threaded inserts (you can try screwing into the bare plastic but its not recommended)
