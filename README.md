@@ -5,6 +5,8 @@ An open/free-to-do whatever 65% handwired keyboard project.
 ## Specs:
 * Mount Style : Top Mount
 * Typing Angle : 2 Degrees
+* Front Type Height : 21.4mm
+* Dimensions : 319.5mm x 110.3mm
 
 ## Layouts:
 ![Layouts](https://github.com/Arko9699/trijoy65/blob/main/Resources/Layouts.png?raw=true)
