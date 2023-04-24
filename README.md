@@ -12,7 +12,8 @@ An open/free-to-do whatever 65% handwired keyboard project.
 ![Layouts](https://github.com/Arko9699/trijoy65/blob/main/Resources/Layouts.png?raw=true)
 
 ## Render:
-![Render](https://github.com/Arko9699/trijoy65/blob/main/Resources/Exploded_View.png?raw=true)
+![Render](https://github.com/Arko9699/trijoy65/blob/main/Resources/explosion.png?raw=true)
+![Fusion](https://github.com/Arko9699/trijoy65/blob/main/Resources/fusion.png?raw=true)
 
 ## Materials Required:
 
