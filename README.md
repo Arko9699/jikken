@@ -1,6 +1,6 @@
 # Jikken
 
-An open/free-to-do whatever 65% handwired keyboard project.
+An open/free-to-do-whatever 65% handwired keyboard project.
 
 ## Specs:
 * Mount Style : Top Mount
